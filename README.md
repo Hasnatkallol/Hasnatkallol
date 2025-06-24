@@ -26,7 +26,7 @@
 ###
 
 <img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-
+```javascript
 const hasnat = {
   pronouns: "he" | "him",
   tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
@@ -36,7 +36,7 @@ const hasnat = {
   database: "MongoDB(NoSQL database)",
   challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
 }
-
+```
 ###
 
 
