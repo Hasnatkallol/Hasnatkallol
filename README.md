@@ -1,26 +1,30 @@
-<div align="center">
-  <img height="250" src="https://avatars.githubusercontent.com/u/165007085?s=400&u=6c59acee222a98eb1d52083731ebdfe186e3a9b3&v=4"  />
+<div style="max-width: 600px; margin: 2rem auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222;">
+  <div style="text-align: center; margin-bottom: 1.5rem;">
+    <img 
+      src="https://avatars.githubusercontent.com/u/165007085?s=400&u=6c59acee222a98eb1d52083731ebdfe186e3a9b3&v=4" 
+      alt="Hasnat Kallol" 
+      height="250" 
+      style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+    />
+  </div>
+
+  <h2 style="border-bottom: 2px solid #4CAF50; padding-bottom: 0.3rem; margin-bottom: 1rem;">This is Hasnat Kallol</h2>
+
+  <h3 style="color: #4CAF50; margin-bottom: 0.8rem;">About Me</h3>
+
+  <p style="font-size: 1rem; line-height: 1.5; margin-bottom: 1.5rem;">
+    🚀 As a <strong>MERN stack web developer</strong>, I specialize in crafting dynamic, scalable, and responsive web applications using MongoDB for database management, Express.js for backend logic, React for interactive user interfaces, and Node.js for server-side development. I enjoy solving complex problems, creating seamless user experiences, and continuously learning new technologies to enhance my skills. Let’s build something amazing together!
+  </p>
+
+  <h4 style="color: #333; margin-bottom: 0.5rem;">MERN Stack Web Developer</h4>
+
+  <p style="font-size: 1rem; color: #555; line-height: 1.4;">
+    ✨ Creating bugs since <strong>2024</strong><br>
+    📚 Currently learning <strong>NextJS</strong><br>
+    🎯 Goals: Become a <strong>senior developer by 2026</strong>
+  </p>
 </div>
 
-###
-
-<h2 align="left">This is Hasnat Kallol</h2>
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">"🚀 As a MERN stack web developer, I specialize in crafting dynamic, scalable, and responsive web applications using MongoDB for database management, Express.js for backend logic, React for interactive user interfaces, and Node.js for server-side development. I enjoy solving complex problems, creating seamless user experiences, and continuously learning new technologies to enhance my skills. Let’s build something amazing together!"</p>
-
-###
-
-<h4 align="left">MERN Stack Web Developer</h4>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2026</p>
 
 
 ###
@@ -41,12 +45,8 @@ const hasnat = {
 ###
 
 ###
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hasnatkallol&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
----
+
 
 ## 📊 GitHub Metrics
 
