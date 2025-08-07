@@ -49,7 +49,8 @@ const hasnat = {
 
 
 
-<h4 align="left">  💻 Technologies that I know</h4>
+## 💻 Technologies that I know
+
 
 ###
 
