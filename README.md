@@ -111,17 +111,20 @@ const hasnat = {
 
 ###
 
-## Reach me out
+## 📬 Reach Me Out
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hasnat-kallol/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/hasnat-kallol/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="38" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.facebook.com/abul.hasnat.90281" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/abul.hasnat.90281" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="38" alt="Facebook" style="margin-right: 10px;" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" title="Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="38" alt="Discord" />
+  </a>
 </div>
+
 
 
 ###
