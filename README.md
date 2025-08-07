@@ -40,10 +40,29 @@ const hasnat = {
 ```
 ###
 
+###
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnatkallol&show_icons=true&theme=radical" alt="Hasnat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnatkallol&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnatkallol&theme=radical" alt="Contribution Graph" />
+</p>
+
+###
+
 
 <h4 align="left">I code with</h4>
 
 ###
+
+
 
 <div align="left">
 
