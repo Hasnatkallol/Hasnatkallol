@@ -109,19 +109,23 @@ const hasnat = {
 ###
 
 
+### 🔭 Current Activities
+- I’m exploring Next.js
+- I’m working on a Pet Adoption website
+- Problem solving
+
+...
+
 ## 📬 Reach Me Out
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hasnat-kallol/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.facebook.com/abul.hasnat.90281" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
-  </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
+  <a href="https://hasnatkallolportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </div>
-
-
-###
