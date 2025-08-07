@@ -41,7 +41,8 @@ const hasnat = {
 ###
 
 
-##💻 Technologies that I know
+##
+💻 Technologies that I know
 
 ###
 
