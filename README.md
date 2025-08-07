@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+## About me
 
 ###
 
@@ -42,7 +42,11 @@ const hasnat = {
 
 
 ##
-💻 Technologies that I know
+
+
+## 💻 Technologies that I know
+
+
 
 ###
 
