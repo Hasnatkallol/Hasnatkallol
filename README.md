@@ -95,20 +95,28 @@ const hasnat = {
 
 ## 📊 GitHub Metrics
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnatkallol&show_icons=true&theme=radical" alt="Hasnat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnatkallol&show_icons=true&theme=radical" alt="Hasnatkallol's GitHub Stats" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnatkallol&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hasnatkallol&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnatkallol&theme=radical" alt="Hasnatkallol's Contribution Graph" />
 </p>
 
 
-###
+
 
 
 ### 🔭 Current Activities
