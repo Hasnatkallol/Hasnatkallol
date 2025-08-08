@@ -1,9 +1,11 @@
 
-<div align="center">
-  <h2>Hasnat Kallol | MERN Stack Developer</h2>
-  <p>Specializing in MongoDB, Express, React, and Node.js</p>
-  <img height="250" src="https://user-images.githubusercontent.com/109365159/271964779-3e5aab7f-c52a-466a-9289-cde6b0cd0e98.png" alt="Hasnat Kallol Banner" />
-</div>
+<p align="center">
+  <img src="https://i.ibb.co/VYH10Pj1/hasnat-banner-img.jpg" alt="Hasnat Kallol Banner" width="100%" />
+</p>
+
+<h2 align="center">Hasnat Kallol | MERN Stack Developer</h2>
+<p align="center">Specializing in MongoDB, Express, React, and Node.js</p>
+
 ###
 
 <h2 align="left">This is Hasnat Kallol</h2>
